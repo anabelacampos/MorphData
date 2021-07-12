@@ -17,7 +17,7 @@ Plugin Execution
 *******/
 
 //Get the animals' folder
-sourceDir = getDirectory("Where is the folder containing the animals?");
+sourceDir = getDirectory("Where is the folder containing the images?");
 if(sourceDir == ""){
 	exit("Wrong directory. Closing plugin.");
 } else{ 
