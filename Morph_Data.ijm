@@ -1,6 +1,11 @@
 requires("1.52t");
 
-/******
+/******  
+MIT License
+Copyright (c) 2021 anabelacampos
+*******/
+
+/******  
 Variables and User Input
 *******/
 
