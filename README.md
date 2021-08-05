@@ -1,4 +1,7 @@
 # MorphData Plugin
-A set of macros, plugins, flows, and scripts to ease morphological analysis of brain cells.
+An ImageJ plugin that eases the morphological analysis of brain cells.
 
-Data are provided to the public strictly for educational and academic research purposes. When using a dataset please cite this repository and the corresponding paper.
+Software made available under a MIT License.
+Copyright (c) 2021 anabelacampos.
+
+Data (_MorphData - Data.zip_) are provided to the public strictly for educational and academic research purposes.
