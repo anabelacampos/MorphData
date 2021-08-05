@@ -2,7 +2,8 @@
 """
 Created on Sun Feb  7 11:51:05 2021
 
-@author: brunofmf
+MIT License
+Copyright (c) 2021 anabelacampos
 """
 from tkinter.filedialog import askdirectory
 import pandas as pd
