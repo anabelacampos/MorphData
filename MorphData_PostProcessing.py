@@ -136,7 +136,7 @@ def __main__():
     ###
     # First Skeleton Data
     ###
-    path = askdirectory(title='Where is the folder containing the animals?')
+    path = askdirectory(title='Where is the folder containing the animals (the same folder you indicated to MorphData plugin)?')
     dict_skeleton_results, dict_branch_info = loadSkeletonData(path)
     #dicts to dataframes if has data
     if(bool(dict_skeleton_results)):
